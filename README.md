@@ -11,4 +11,5 @@ The Reference videos for the project were taken from - `https://pixabay.com/api/
 `https://exoplayer.dev/`
 Exoplayer is an application level media player for android , it supports playing videos over the Android's default media player.Exoplayer is also used in this application to play videos in whole view
 
-<iframe src="https://player.vimeo.com/video/816798154?h=4c75c42ac2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479" width="576" height="1280" frameborder="0" allow="autoplay; fullscreen; picture-in-picture" allowfullscreen title="screen-20230412-113703.mp4"></iframe>
+### Link to demonstration
+`https://player.vimeo.com/video/816798154?h=4c75c42ac2&amp;badge=0&amp;autopause=0&amp;player_id=0&amp;app_id=58479`
